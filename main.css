@@ -1,0 +1,27 @@
+/*styling sheet for phoebe cv task*/
+.passport {
+	height: 90px; float: left; 
+}
+
+.name, {
+	text-align: center; float: center; padding: 0; margin: 0
+}
+
+
+h2{
+	margin: 0; padding: 0
+}
+hr{
+	color: red; margin:0; padding: 0
+}
+h3{
+	margin: 0; padding: 0
+}
+.contactform{
+	float: left;
+}
+.contactdetails{
+	float: right; margin-right: 20px; padding-top: 50px
+
+
+}
